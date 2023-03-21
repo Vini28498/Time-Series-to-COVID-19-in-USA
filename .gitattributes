@@ -1,1 +1,2 @@
-https://github.com/Vini28498/Time-Series-to-COVID-19-in-USA/*.python linguist-detectable=true
+$ cat .gitattributes
+https://github.com/Vini28498/Time-Series-to-COVID-19-in-USA/.jupyter linguist-language=Python
